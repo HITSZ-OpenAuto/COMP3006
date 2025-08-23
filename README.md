@@ -16,17 +16,35 @@
 ![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业10%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)
+![project50%](https://img.shields.io/badge/project-50%25-wheat)
+![期末考试40%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-40%25-wheat)
 
 
-## 授课教师
+## 机器学习概论
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+本课程为方向限选课，占2学分。
 
-## 关于考试
+分数构成 = 20%作业分 + 20%报告分 + 60%project（18级疫情期间）
 
-## 学习建议
+分数构成 = 10%作业分 + 50%project + 40%期末考试（一般情况下）
+
+### 关于教师
+
+dyx：
+
+与计导是同一个老师。
+
+PPT 内容总体中规中矩，从书上摘下的内容。
+
+### 关于实验
+
+会做一个kaggle上的TItanic乘客遇难情况预测，可以上*CSDN*寻求前人的帮助，给分与预测的准确率（在班上的排名）有关。不卷的话，其实还是压力不大的。但是需要**使用Python**完成Project，建议提前学习。
+
+### 关于考试
+
+18级因为疫情取消考试。但是据说17级有人被挂科了。
+
+### Tips
+
+无。
