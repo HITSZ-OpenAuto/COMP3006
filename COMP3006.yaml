@@ -1,0 +1,31 @@
+course_name: "机器学习"
+course_code: "COMP3006"
+notices: ""
+grading:
+  "0000": "作业(10%) + project(50%) + 期末考试(40%)"
+teachers:
+  - name: "丁宇新"
+    reviews:
+      - content: |
+          与计导是同一个老师。
+          PPT 内容总体中规中矩，从书上摘下的内容。
+        submitter:
+          name: ""
+          link: ""
+textbooks: []
+online_resources: []
+about_course:
+  - content: |
+      会做一个kaggle上的TItanic乘客遇难情况预测，可以上CSDN寻求前人的帮助，给分与预测的准确率（在班上的排名）有关。不卷的话，其实还是压力不大的。但是需要使用Python完成Project，建议提前学习。
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: "18级因为疫情取消考试。但是据说17级有人被挂科了。"
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links: []
+misc: []
