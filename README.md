@@ -1,4 +1,6 @@
 # COMP3006 - 机器学习
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
@@ -10,13 +12,20 @@
 ## 授课教师
 
 - 丁宇新
+  <!-- TOML-ITEM: id="review-丁宇新-1" has_author="true" -->
   - 与计导是同一个老师。
   - PPT 内容总体中规中矩，从书上摘下的内容。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" has_author="true" -->
 
 18级因为疫情取消考试。但是据说17级有人被挂科了。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 会做一个kaggle上的TItanic乘客遇难情况预测，可以上*CSDN*寻求前人的帮助，给分与预测的准确率（在班上的排名）有关。不卷的话，其实还是压力不大的。但是需要**使用Python**完成Project，建议提前学习。
