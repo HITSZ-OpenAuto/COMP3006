@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 丁宇新
   <!-- TOML-ITEM: id="review-丁宇新-1" has_author="true" -->
   - 与计导是同一个老师。
