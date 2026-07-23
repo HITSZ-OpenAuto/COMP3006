@@ -3,9 +3,9 @@
 <!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
+![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
+![Project50%](https://img.shields.io/badge/Project-50%25-wheat)
+![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 机器学习课程资料整理。
 
@@ -18,8 +18,8 @@
   <!-- TOML-ITEM: id="review-丁宇新-1" has_author="true" -->
   - 与计导是同一个老师。
   - PPT 内容总体中规中矩，从书上摘下的内容。
-
 - 陈科海
+  <!-- TOML-ITEM: id="review-陈科海-1" -->
   - 为 26 春机器学习授课老师。老师专业知识较为丰富，上课经常会给大家科普一些拓展内容。课后会及时把 PPT 发给大家，包括老师拓展的、在考试范围之外的内容。
   - 老师人很好，也乐于和学生交流；考勤频率较低，且多数情况下会提前通知大家；作业留的也比较少，形式为在二十道习题里面任选至少十道完成，在期末结课前提交即可。
 
