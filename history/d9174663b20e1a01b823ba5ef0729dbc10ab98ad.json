@@ -1,0 +1,77 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814866,
+    "hash": "f99c74f1fde8aeb4dde9606f5c8cb20265ff3134"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "README.md": {
+    "size": 2229,
+    "time": 1791961570,
+    "hash": "d9174663b20e1a01b823ba5ef0729dbc10ab98ad"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "assignments/2019_Lmh/readme.md": {
+    "size": 281,
+    "time": 1755964578,
+    "hash": "6a3da14ed8c6971f2096c5316fb56fda0460625c"
+  },
+  "assignments/2019_Lmh/作业题目汇总.pdf": {
+    "size": 574970,
+    "time": 1755964578,
+    "hash": "6a3da14ed8c6971f2096c5316fb56fda0460625c"
+  },
+  "assignments/2019_Lmh/部分参考答案.pdf": {
+    "size": 470547,
+    "time": 1755964578,
+    "hash": "6a3da14ed8c6971f2096c5316fb56fda0460625c"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "exams/2021秋机器学习期末考_回忆版.md": {
+    "size": 460,
+    "time": 1757436437,
+    "hash": "52ede984c6c090c0f75a618529c15bc36a9b2f2c"
+  },
+  "exams/23级期末回忆版": {
+    "size": 446,
+    "time": 1763821992,
+    "hash": "c8ef9236ee886a5615009ac3b26de453696e3911"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "readme.toml": {
+    "size": 2247,
+    "time": 1784775498,
+    "hash": "492674d3185e6c27216cf3141313bcec4e8acdbf"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754204068,
+    "hash": "92f752f9d19821077016d39853fb8a86e623ca1d"
+  },
+  "slides/Machine Learning[Tom M. Mitchell][中文版].pdf": {
+    "size": 10357727,
+    "time": 1755964578,
+    "hash": "6a3da14ed8c6971f2096c5316fb56fda0460625c"
+  }
+}
